@@ -1825,12 +1825,12 @@ h3 {
 }
 
 .home_bg {
-  background-image: url(../img/hikar/forest5.jpg);
+  background-image: url(../img/hikar/daylight-environment-forest-idyllic-459225.jpg);
   background-size: cover;
 }
 
 .project_proposal_bg {
-  background: linear-gradient(rgba(255,255,255,.2), rgba(255,255,255,.2)), url(../img/hikar/forest.jpg);
+  background: url(../img/hikar/forest.jpg);
 }
 
 .ux_research_bg {
@@ -1839,6 +1839,10 @@ h3 {
 
 .ux_design_bg {
   background-image: url(../img/hikar/forest2.jpg);
+}
+
+.ux_communication_bg {
+  background-image: url(../img/hikar/forest5.jpg);
 }
 
 .team_bg {
@@ -1879,6 +1883,12 @@ h3 {
 .prototype-multiple {
   width: 80%;
   height: 1500px;
+}
+
+.team-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
 
 
